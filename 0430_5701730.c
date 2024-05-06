@@ -2,7 +2,7 @@
 #include<stdlib.h>
 
 #define MAX_QUEUE_SIZE 5
-
+//원형 큐 프로그램
 typedef int element;
 typedef struct {
     element data[MAX_QUEUE_SIZE];
